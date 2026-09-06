@@ -1,0 +1,41 @@
+:root{
+  --bg:#2f241b;
+  --bg2:#4a3828;
+  --panel:#5b4633;
+  --panel2:#6c543d;
+  --paper:#e8dcc2;
+  --paper2:#d8c6a4;
+  --ink:#33271d;
+  --text:#f1e5ce;
+  --muted:#c6b493;
+  --line:#8b6d4d;
+  --accent:#b89262;
+  --danger:#d0a38c;
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;background:radial-gradient(circle at top,#56412e 0,#2f241b 62%);color:var(--text);font-family:"Courier New",monospace}
+body{min-height:100vh}
+a{color:inherit}
+.shell{max-width:1050px;margin:0 auto;padding:26px}
+.gm-head{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:18px;border-bottom:1px solid #8b6d4d;padding-bottom:12px}
+.brand{font-weight:700;letter-spacing:1.6px}
+.gm-only{font-size:.8rem;color:#ddc9a8;border:1px solid #8b6d4d;padding:5px 8px;border-radius:3px}
+.card{background:rgba(76,57,40,.94);border:1px solid #8b6d4d;border-radius:5px;padding:20px;box-shadow:0 14px 30px rgba(0,0,0,.28);margin-bottom:18px}
+h1,h2,h3{margin-top:0}
+.small{font-size:.88rem;color:var(--muted)}
+.warning{color:#efc3a6}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:13px}
+.linkcard{display:block;text-decoration:none;color:var(--text);background:#624b36;border:1px solid #91704d;padding:14px;border-radius:4px;cursor:pointer}
+.linkcard:hover{background:#72583f}
+.paper{background:linear-gradient(135deg,var(--paper),#ddcfb4);color:var(--ink);border-radius:2px;padding:24px;border:1px solid #9b8262;box-shadow:0 12px 28px rgba(0,0,0,.25)}
+.paper h1,.paper h2,.paper h3{font-family:Georgia,"Times New Roman",serif}
+table{width:100%;border-collapse:collapse;margin:12px 0}th,td{border-bottom:1px solid #8e795f;padding:8px;text-align:left;vertical-align:top}.paper th,.paper td{border-color:#a89576}
+.badge{display:inline-block;padding:3px 8px;border:1px solid #9a7d59;color:#e9d6b8;font-size:.8rem}
+.lockbox{border:1px solid #8e7253;padding:16px;border-radius:3px;margin:14px 0;background:#4a3829}
+input,select{background:#eadfc8;color:#34281f;border:1px solid #8b7354;padding:10px;border-radius:2px}
+button{border:1px solid #9d7a52;background:#674d34;color:#f0e3cc;border-radius:3px;padding:10px 14px;cursor:pointer}button:hover{background:#795b3d}.status-ok{color:#d9d2ad}.status-bad{color:#f0b2a0}
+
+/* Nokia: fixed screen; user must navigate by controls. */
+.phone-wrap{display:flex;justify-content:center;align-items:flex-start;padding-top:6px}.nokia{width:350px;background:linear-gradient(#aa9b84,#736957);border-radius:29px;padding:24px 20px 28px;border:4px solid #403a31;box-shadow:0 20px 45px rgba(0,0,0,.48)}.nokia-brand{text-align:center;color:#392f26;font:bold 24px Arial,sans-serif;margin-bottom:8px;letter-spacing:1px}.screen{background:#c1c59d;color:#22291e;width:100%;height:260px;min-height:260px;max-height:260px;border:9px solid #36362f;padding:9px;font-family:monospace;overflow:hidden;position:relative}.screen-head{display:flex;justify-content:space-between;border-bottom:1px solid #596049;padding-bottom:4px;margin-bottom:7px;font-size:.88rem}.phone-list{height:207px;overflow:hidden}.phone-row{padding:7px 5px;border-bottom:1px dotted #6d735a;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.phone-row.selected{background:#8f9873;color:#11170f}.phone-detail{height:202px;overflow:hidden;white-space:pre-wrap;font-size:.9rem;line-height:1.35}.softkeys{display:flex;justify-content:space-between;font-size:.78rem;border-top:1px solid #676c55;padding-top:3px;position:absolute;bottom:4px;left:9px;right:9px}.dpad{margin:12px auto;width:130px;display:grid;grid-template-columns:1fr 1fr 1fr;grid-template-areas:". up ." "left ok right" ". down .";gap:4px}.dpad button{padding:7px;border-radius:10px;background:#5d5549}.up{grid-area:up}.left{grid-area:left}.ok{grid-area:ok}.right{grid-area:right}.down{grid-area:down}.keypad{margin-top:14px;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}.key{background:#433d34;border:1px solid #918675;border-radius:12px;color:#e5ded1;text-align:center;padding:10px 0;font-size:.85rem}.phone-help{text-align:center;color:#d6c5a9;font-size:.78rem;margin-top:8px}
+.terminal{background:#231b14;border:1px solid #896b49;color:#dfcba7;padding:20px;min-height:310px}pre{white-space:pre-wrap}
+@media(max-width:600px){.shell{padding:12px}.nokia{width:min(350px,96vw)}}

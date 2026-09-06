@@ -1,43 +1,37 @@
-# CASE 112405
+# CASE 112405 - Thanksgiving Murder Mystery
 
-Static mystery-game website designed for GitHub Pages.
+Static GitHub Pages build.
 
-## Pages / NFC routes
+## Player-facing NFC routes
 
-- `/`
 - `/phone`
 - `/purdue`
 - `/purdue/fungarium`
 - `/purdue/personnel/eshaw`
 - `/purdue/access`
 - `/archive/weather`
-- `/forensics`
-- `/forensics/toxicology`
 - `/forensics/chemistry`
 - `/files`
 - `/terminal`
 
-## GitHub Pages setup
+The root `/` page is a Game Master route index only. Player-facing pages intentionally have no global tabs.
 
-1. Create a GitHub repository, e.g. `case112405`.
-2. Upload `index.html`, `style.css`, `app.js`, and `404.html` to the repository root.
-3. In GitHub: Settings → Pages.
-4. Deploy from branch `main`, folder `/root`.
-5. Your site will look like:
-   `https://USERNAME.github.io/case112405/`
-6. NFC links can point directly to routes such as:
-   `https://USERNAME.github.io/case112405/phone`
+## Nokia controls
 
-The included `404.html` redirects direct NFC route visits back into the single-page app.
+The Nokia screen is fixed-height and does not scroll. Use the on-screen directional pad:
 
-## Current encrypted file passwords
+- Up / Down: move selection
+- OK / Right: open
+- Left: go back one Nokia level
 
-- REPORT.DOC → `112505`
-- ACCESS_LOG.DAT → `ES417`
-- ARCHIVE_F12.LOG → `F12112105`
+## Encrypted file passwords (GM)
 
-Change these in `app.js` before your final game if desired.
+- `REPORT.DOC` = `112505`
+- `ACCESS_LOG.DAT` = `ES417`
+- `ARCHIVE_F12.LOG` = `F12112105`
 
-## Safety note
+## GitHub Pages
 
-The chemistry content is intentionally fictionalized. The site omits toxin preparation, extraction, dosing, or administration details.
+Upload `index.html`, `style.css`, `app.js`, and `404.html` to the repository root and enable GitHub Pages from the main branch.
+
+The included `404.html` supports direct NFC URLs on GitHub Pages.

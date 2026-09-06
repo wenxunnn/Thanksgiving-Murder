@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CASE 112405</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+  (function(){
+    const q = new URLSearchParams(location.search);
+    const r = q.get("route");
+    if(r){
+      const base = location.hostname.endsWith("github.io") ? "/" + location.pathname.split("/").filter(Boolean)[0] : "";
+      history.replaceState({}, "", base + r);
+    }
+  })();
+  </script>
+  <script src="./app.js"></script>
+</body>
+</html>
