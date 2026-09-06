@@ -1,0 +1,219 @@
+
+:root{
+  --bg:#09100c;
+  --panel:#111b15;
+  --panel2:#18251d;
+  --text:#dce8df;
+  --muted:#8da093;
+  --accent:#9ecb87;
+  --danger:#c98b8b;
+  --paper:#e7e0c9;
+  --ink:#27251f;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:"Courier New", monospace;
+  background:radial-gradient(circle at top,#17241b 0,#09100c 58%);
+  color:var(--text);
+  min-height:100vh;
+}
+a{color:var(--accent)}
+button,input,select,textarea{font:inherit}
+.shell{
+  max-width:1100px;
+  margin:0 auto;
+  padding:24px;
+}
+.topbar{
+  display:flex;
+  gap:12px;
+  justify-content:space-between;
+  align-items:center;
+  margin-bottom:20px;
+}
+.brand{font-weight:700;letter-spacing:1px}
+.nav{
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+}
+.nav a{
+  text-decoration:none;
+  color:var(--text);
+  border:1px solid #304236;
+  padding:8px 10px;
+  border-radius:6px;
+  background:#101812;
+}
+.nav a:hover{background:#17251b}
+.card{
+  background:rgba(17,27,21,.96);
+  border:1px solid #2f4435;
+  border-radius:10px;
+  padding:20px;
+  box-shadow:0 12px 30px rgba(0,0,0,.25);
+  margin-bottom:18px;
+}
+h1,h2,h3{margin-top:0}
+.small{font-size:.9rem;color:var(--muted)}
+.warning{color:#e8b7a0}
+.grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(230px,1fr));
+  gap:14px;
+}
+.linkcard{
+  display:block;
+  text-decoration:none;
+  color:inherit;
+  background:#162219;
+  border:1px solid #304537;
+  padding:14px;
+  border-radius:8px;
+}
+.linkcard:hover{transform:translateY(-1px);background:#1b2a20}
+.paper{
+  background:var(--paper);
+  color:var(--ink);
+  border-radius:3px;
+  padding:22px;
+  border:1px solid #b9ad8d;
+  box-shadow:0 10px 24px rgba(0,0,0,.2);
+}
+.paper h1,.paper h2,.paper h3{font-family:Georgia,serif}
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin:12px 0;
+}
+th,td{border-bottom:1px solid #465548;padding:8px;text-align:left}
+.paper th,.paper td{border-color:#aa9f85}
+.badge{
+  display:inline-block;
+  padding:3px 8px;
+  border-radius:999px;
+  border:1px solid #4b6351;
+  color:#bcd2c0;
+  font-size:.82rem;
+}
+.lockbox{
+  border:1px dashed #607467;
+  padding:16px;
+  border-radius:8px;
+}
+input{
+  background:#0f1812;
+  color:#e8efe9;
+  border:1px solid #405346;
+  padding:10px;
+  border-radius:6px;
+}
+button{
+  border:1px solid #6f856f;
+  background:#233326;
+  color:#eef6ef;
+  border-radius:6px;
+  padding:10px 14px;
+  cursor:pointer;
+}
+button:hover{background:#2b3e2e}
+.status-ok{color:#a9d59c}
+.status-bad{color:#e8a3a3}
+
+/* Nokia */
+.phone-wrap{
+  display:flex;
+  justify-content:center;
+}
+.nokia{
+  width:340px;
+  background:linear-gradient(#4f514b,#2e302d);
+  border-radius:28px;
+  padding:24px 20px 28px;
+  border:4px solid #1f211e;
+  box-shadow:0 20px 40px rgba(0,0,0,.45);
+}
+.nokia-brand{
+  text-align:center;
+  color:#d7d7d0;
+  font:bold 24px Arial,sans-serif;
+  margin-bottom:8px;
+  letter-spacing:1px;
+}
+.screen{
+  background:#a8b18a;
+  color:#1d251c;
+  min-height:260px;
+  border:9px solid #1c211f;
+  padding:10px;
+  font-family:monospace;
+  overflow:auto;
+}
+.screen-head{
+  display:flex;
+  justify-content:space-between;
+  border-bottom:1px solid #515e4b;
+  padding-bottom:4px;
+  margin-bottom:8px;
+}
+.phone-menu button{
+  display:block;
+  width:100%;
+  text-align:left;
+  background:transparent;
+  color:#1d251c;
+  border:0;
+  padding:7px 4px;
+}
+.phone-menu button:hover{background:#8e9873}
+.keypad{
+  margin-top:14px;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:8px;
+}
+.key{
+  background:#161816;
+  border:1px solid #696d66;
+  border-radius:12px;
+  color:#ddd;
+  text-align:center;
+  padding:10px 0;
+}
+.dpad{
+  margin:12px auto;
+  width:120px;
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  grid-template-areas:
+    ". up ."
+    "left ok right"
+    ". down .";
+  gap:4px;
+}
+.dpad button{padding:7px}
+.up{grid-area:up}.left{grid-area:left}.ok{grid-area:ok}.right{grid-area:right}.down{grid-area:down}
+.msg{
+  padding:8px 0;
+  border-bottom:1px dotted #59634f;
+}
+.backbtn{
+  margin-top:8px;
+  width:100%;
+  background:#7f8b69;
+  color:#162016;
+  border:none;
+}
+.terminal{
+  background:#040704;
+  border:1px solid #234127;
+  color:#85dd8d;
+  padding:18px;
+  min-height:300px;
+}
+pre{white-space:pre-wrap}
+@media(max-width:600px){
+  .shell{padding:12px}
+  .topbar{align-items:flex-start;flex-direction:column}
+}
