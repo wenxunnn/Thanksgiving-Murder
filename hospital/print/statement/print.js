@@ -1,2 +1,2 @@
-import {loadAccounts,statementHTML} from '../../billing/statement.js';
+import {loadAccounts,statementHTML} from '../../billing/statement.js?v=final-canon-20261124';
 const button=document.querySelector('#print'),status=document.querySelector('#print-status');try{const accounts=await loadAccounts(new URL('../../data/accounts.json',import.meta.url));const account=Object.values(accounts)[0];if(!account)throw Error();document.querySelector('#statement').innerHTML=statementHTML(account,{activity:false,tools:false});button.disabled=false;status.textContent='Statement ready for letter-size printing.';button.onclick=()=>print();}catch{status.textContent='Statement could not be loaded. Refresh and try again.';}

@@ -1,30 +1,44 @@
 [
   {
     "id": "cs-2008-14",
-    "title": "WLU Computing Services — Remote Access Guide (2008)",
+    "title": "WLLU Computing Services — Remote Access Guide (2008)",
     "authors": [
-      "WLU Computing Services"
+      "WLLU Computing Services"
     ],
     "year": 2008,
-    "publisher": "WLU Technical Services",
+    "publisher": "WLLU Technical Services",
     "kind": "Support reference",
     "url": "computing-services/",
     "date": "14 August 2008",
     "keywords": "Remote access VPN Laboratory computer Campus network IP address Chemistry lab",
-    "abstract": "A technical reference for laboratory workstation addresses, public university gateways, and remote authentication through the WLU VPN service."
+    "abstract": "A technical reference for laboratory workstation addresses, public university gateways, and remote authentication through the WLLU VPN service."
   },
   {
     "id": "it-2008-10",
-    "title": "WLU Information Technology — Network Access Reference, October 2008",
+    "title": "WLLU Information Technology — Network Access Reference, October 2008",
     "authors": [
-      "WLU Information Technology"
+      "WLLU Information Technology"
     ],
     "year": 2008,
-    "publisher": "WLU Computing Services",
+    "publisher": "WLLU Computing Services",
     "kind": "Technical reference",
     "url": "network-reference/",
     "date": "16 October 2008",
     "keywords": "Remote access VPN Laboratory computer Campus network IP address Chemistry lab source destination gateway",
     "abstract": "Address conventions for laboratory workstations, institutional gateways, and remote VPN sessions, with guidance on source and destination fields."
+  },
+  {
+    "id": "aw-2004-06",
+    "title": "2004 Langford Research Award — Whitmore and Lin",
+    "authors": [
+      "West La La University Research Communications"
+    ],
+    "year": 2004,
+    "publisher": "WLLU Research Communications",
+    "kind": "Award announcement",
+    "url": "award-2004/",
+    "date": "Autumn 2004",
+    "keywords": "Langford award fluorescence antibiotic residues milk Victor Lin Whitmore collaboration friendship",
+    "abstract": "A historical announcement recognizing the fluorescence-based detection work of Nathaniel Whitmore and Victor Lin."
   }
 ]

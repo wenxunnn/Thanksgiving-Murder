@@ -6,7 +6,7 @@
   "timeZone": "EST",
   "captureMode": "Interval still",
   "intervalMinutes": 30,
-  "storageServer": "10.42.90.04",
+  "storageServer": "10.42.90.4",
   "gateway": "128.46.32.14",
   "archiveNode": "CAM-04",
   "assetStatus": "Illustrated placeholders; replace with final staged stills if available.",
@@ -36,8 +36,8 @@
       "id": "cam04-2330",
       "time": "11:30 PM",
       "timestamp": "2008-11-27 23:30:00 EST",
-      "src": "assets/cam04-2330-no-knife.svg",
-      "alt": "The figure remains in the same chair position. No knife is visible."
+      "src": "assets/cam04-2330-final.svg",
+      "alt": "The figure remains in the same chair position, with the knife handle still visible."
     }
   ]
 }

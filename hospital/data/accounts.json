@@ -47,7 +47,19 @@
           "event": "Billing inquiry"
         }
       ],
-      "status": "OUTSTANDING"
+      "status": "OUTSTANDING",
+      "dateOfBirth": "March 14, 1999",
+      "previousStatements": [
+        {
+          "statementDate": "October 20, 2008",
+          "statementISO": "2008-10-20",
+          "priorBalanceCents": 3184210,
+          "servicesCents": 2385820,
+          "adjustmentsCents": -42000,
+          "balanceCents": 5528030,
+          "status": "PAST DUE"
+        }
+      ]
     }
   },
   "aliases": {
