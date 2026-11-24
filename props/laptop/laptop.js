@@ -1,0 +1,1 @@
+import {loadLabRecord,labRecordHTML} from '../../assets/lab-record.js';const view=document.querySelector('#lab-log');try{view.innerHTML=labRecordHTML(await loadLabRecord());}catch{view.textContent='Access record could not be loaded. Refresh and try again.';}

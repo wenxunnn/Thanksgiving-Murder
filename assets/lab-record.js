@@ -1,0 +1,3 @@
+const escape=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export async function loadLabRecord(){const response=await fetch(new URL('lab-record.json',import.meta.url),{cache:'no-store'});if(!response.ok)throw Error();return response.json();}
+export function labRecordHTML(record){return '<dl>'+[['Username',record.username],['Date',record.date],['Time',record.time],['Destination',record.destination],['Source IP',record.sourceIP],['Connection',record.connection],['Status',record.status]].map(([label,value])=>`<dt>${label}</dt><dd>${escape(value)}</dd>`).join('')+'</dl><p class="meta">Instrument server audit trail / entry '+escape(record.entry)+'</p>';}

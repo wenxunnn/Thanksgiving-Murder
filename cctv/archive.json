@@ -1,0 +1,43 @@
+{
+  "camera": "CAM-04",
+  "location": "Lark Townhouse 17 — first-floor balcony",
+  "date": "2008-11-27",
+  "dateDisplay": "11/27/2008",
+  "timeZone": "EST",
+  "captureMode": "Interval still",
+  "intervalMinutes": 30,
+  "storageServer": "10.42.90.04",
+  "gateway": "128.46.32.14",
+  "archiveNode": "CAM-04",
+  "assetStatus": "Illustrated placeholders; replace with final staged stills if available.",
+  "frames": [
+    {
+      "id": "cam04-2200",
+      "time": "10:00 PM",
+      "timestamp": "2008-11-27 22:00:00 EST",
+      "src": "assets/cam04-2200.svg",
+      "alt": "A person is standing beside a balcony chair. No knife is visible."
+    },
+    {
+      "id": "cam04-2230",
+      "time": "10:30 PM",
+      "timestamp": "2008-11-27 22:30:00 EST",
+      "src": "assets/cam04-2230.svg",
+      "alt": "A person is slumped in the balcony chair. No knife is visible."
+    },
+    {
+      "id": "cam04-2300",
+      "time": "11:00 PM",
+      "timestamp": "2008-11-27 23:00:00 EST",
+      "src": "assets/cam04-2300.svg",
+      "alt": "The same seated figure remains. A small handle projects from the upper chest."
+    },
+    {
+      "id": "cam04-2330",
+      "time": "11:30 PM",
+      "timestamp": "2008-11-27 23:30:00 EST",
+      "src": "assets/cam04-2330.svg",
+      "alt": "The figure remains in the same chair position, with the handle still visible."
+    }
+  ]
+}

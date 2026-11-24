@@ -1,0 +1,2 @@
+const base=new URL('../',import.meta.url);for(const a of document.querySelectorAll('[data-route]')){a.href=new URL(a.dataset.route,base).href;a.textContent=a.href;}
+document.querySelector('#print-page')?.addEventListener('click',()=>print());const entry=document.querySelector('#access-entry');if(entry)entry.addEventListener('input',()=>{document.querySelector('#printed-access').textContent=entry.value.replace(/[^0-9]/g,'').slice(0,8)||'________________';});

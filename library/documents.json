@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cs-2008-14",
+    "title": "WLU Computing Services — Remote Access Guide (2008)",
+    "authors": [
+      "WLU Computing Services"
+    ],
+    "year": 2008,
+    "publisher": "WLU Technical Services",
+    "kind": "Support reference",
+    "url": "computing-services/",
+    "date": "14 August 2008",
+    "keywords": "Remote access VPN Laboratory computer Campus network IP address Chemistry lab",
+    "abstract": "A technical reference for laboratory workstation addresses, public university gateways, and remote authentication through the WLU VPN service."
+  },
+  {
+    "id": "it-2008-10",
+    "title": "WLU Information Technology — Network Access Reference, October 2008",
+    "authors": [
+      "WLU Information Technology"
+    ],
+    "year": 2008,
+    "publisher": "WLU Computing Services",
+    "kind": "Technical reference",
+    "url": "network-reference/",
+    "date": "16 October 2008",
+    "keywords": "Remote access VPN Laboratory computer Campus network IP address Chemistry lab source destination gateway",
+    "abstract": "Address conventions for laboratory workstations, institutional gateways, and remote VPN sessions, with guidance on source and destination fields."
+  }
+]
