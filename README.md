@@ -10,16 +10,18 @@ A static, free-to-host investigation companion, replacing the previous applicati
 - Campus IT reference: `library/records/network.html`
 - Printable laptop: `props/laptop/`
 
-The site is designed for the fictional incident on Thursday, November 27, 2008. The game takes place Friday, November 27, 2026. The public root is a harmless service directory. `/gm/` contains only an offline notice. Sensitive GM information is deliberately absent. GitHub Pages cannot enforce private GM access to `/` while serving public subroutes; keep GM notes and solutions on a separate local device.
+The site is designed for the fictional incident on Thursday, November 27, 2008. The game takes place Friday, November 27, 2026. The root is the game-master launch desk, with separate library and smartphone phone links plus copy-link controls. `/gm/` redirects to the root. Player library pages have no links to the phone or GM desk, and the phone is a separate interface. Sensitive GM information is deliberately absent. GitHub Pages cannot enforce private GM access to `/` while serving public subroutes; keep GM notes and solutions on a separate local device.
 
 ## Files
 
-- `index.html`, `404.html`: service directory and retired-route notice.
+- `index.html`, `assets/gm.css`, `assets/gm.js`: game-master launch desk and player-link copy controls.
+- `404.html`: retired-route notice.
 - `assets/`: shared responsive navy/cream/burgundy 2008 university styling and session reset.
 - `library/catalog.js`, `library/papers.json`: searchable faculty publications and local reading desk.
 - `library/publications/`: full paper display, graph and table, both rendered from the same numerical arrays.
 - `library/faculty/`, `library/records/`: profiles and administrative records.
-- `library/archive/`: puzzle access form and sealed portrait asset.
+- `library/archive/`: eight-digit puzzle access form and sealed six-symbol note.
+- `phone/index.html`, `phone/phone.css`: standalone smartphone dialer, independent of the library.
 - `phone/phone.js`, `phone/directory.json`, `phone/audio/`: simulated calls, number map, transcripts and five prerecorded MP3s.
 - `scripts/validate.mjs`: dependency-free checks.
 
@@ -71,7 +73,7 @@ The visiting-reader card shown on the catalog opens a local reading list. It is 
 
 ## Archive, hints and reset
 
-The archive uses an encrypted static portrait asset to avoid accidental pre-unlock HTML spoilers. Its four-digit puzzle key has a tiny brute-forceable space: **this is puzzle progression, not secure authentication**. No murder solution is stored in that asset or elsewhere in the deployed site. Keep the private production notes outside this repository.
+The archive uses an encrypted static puzzle asset to avoid accidental pre-unlock HTML spoilers. The eight-digit puzzle code is not a server-enforced login: **this is puzzle progression, not secure authentication**. The six-symbol note uses a Nokia phone number pad hint. Its decoded answer is not printed in player pages or source. No murder solution is stored in that asset or elsewhere in the deployed site. Keep the private production notes outside this repository.
 
 The GM issues assistance tickets verbally or on paper; players enter them in the unlocked archive. This works without a backend and does not provide remote synchronized GM controls. Hints and validation are inspectable static game content.
 

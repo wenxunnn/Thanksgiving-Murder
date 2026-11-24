@@ -1,0 +1,3 @@
+const base=new URL(location.href);base.hash='';base.search='';if(!base.pathname.endsWith('/'))base.pathname+='/';
+for(const [id,path]of [['library-link','library/'],['phone-link','phone/']])document.getElementById(id).value=new URL(path,base).href;
+for(const button of document.querySelectorAll('[data-copy]'))button.addEventListener('click',async()=>{const input=document.getElementById(button.dataset.copy),status=document.getElementById('copy-status');try{await navigator.clipboard.writeText(input.value);status.textContent=(button.dataset.copy==='library-link'?'Library':'Phone')+' link copied.';}catch{input.focus();input.select();status.textContent='Select and copy the highlighted player link.';}});
