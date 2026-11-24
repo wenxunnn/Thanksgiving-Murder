@@ -3,3 +3,5 @@
 .services{grid-template-columns:repeat(3,minmax(0,1fr))}.service{padding:26px}.hospital-card{border-top-color:#417a9b}.hospital-card .launch{background:#376f91}.service>p{min-height:86px}@media(max-width:930px){.services{grid-template-columns:1fr 1fr}.service>p{min-height:57px}}@media(max-width:650px){.services{grid-template-columns:1fr}.service>p{min-height:0}}
 
 .services{grid-template-columns:repeat(2,minmax(0,1fr))}.cctv-card{border-top-color:#515d65}.cctv-card .launch{background:#394953}.service>p{min-height:57px}@media(max-width:650px){.services{grid-template-columns:1fr}.service>p{min-height:0}}.desk-note a{color:inherit}
+
+.services>*{min-width:0}.service h2,.service p{overflow-wrap:anywhere}.link-row button{min-height:44px}

@@ -9,3 +9,6 @@
 .pdf-viewer{margin:25px 0;border:1px solid var(--line);background:white}.pdf-viewer object{display:block;width:100%;height:800px}.button.secondary{background:transparent;color:var(--navy)}@media(max-width:700px){.pdf-viewer{display:none}}@media print{.pdf-viewer{display:none}}
 
 .technical-footer{display:block;flex-basis:100%;font:11px/1.7 Arial;color:#59645f;margin-top:4px}
+
+/* Narrow-screen containment without clipping research tables or text. */
+main,.layout>*,.grid>*,.hero>*{min-width:0}.table-wrap{max-width:100%}h1,h2,h3,.meta,.technical-footer{overflow-wrap:anywhere}nav a{min-height:44px;display:flex;align-items:center;justify-content:center}@media(max-width:760px){.document,.box{max-width:100%}}

@@ -181,3 +181,7 @@ No physical lock combinations or complete solution are printed on the player web
 - Printable props: https://wenxunnn.github.io/Thanksgiving-Murder/printables/
 
 The source needs no compilation. Run `node scripts/validate.mjs`, commit/push `main`, and let the existing branch-based GitHub Pages deployment publish the repository root. Review Actions for a successful deployment. No secrets, private GM documents, real records or runtime data files should be committed.
+
+## Phone-sized layouts
+
+The calling page contains only the smartphone dialer; the former introductory text panel is removed. The institutional sites keep their mobile single-column layouts, minimum 44px navigation controls, wrapping technical text and scrollable research/billing tables. CCTV controls wrap onto multiple rows, and printable prop cards fit narrow screens before printing. Reprints have direct PDF links on phones. These rules are checked in source; real-device visual and printer checks are still recommended.
