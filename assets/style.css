@@ -12,3 +12,5 @@
 
 /* Narrow-screen containment without clipping research tables or text. */
 main,.layout>*,.grid>*,.hero>*{min-width:0}.table-wrap{max-width:100%}h1,h2,h3,.meta,.technical-footer{overflow-wrap:anywhere}nav a{min-height:44px;display:flex;align-items:center;justify-content:center}@media(max-width:760px){.document,.box{max-width:100%}}
+
+.session-facts{margin:22px 0}.session-facts>div{display:grid;grid-template-columns:minmax(130px,.8fr) 1.4fr;gap:20px;padding:11px 0;border-bottom:1px solid #d6ccba}.session-facts dt{font:14px/1.7 Arial,sans-serif;color:#526571}.session-facts dd{margin:0;overflow-wrap:anywhere}.session-details{border:1px solid #c5cdd0;padding:16px 19px;margin:27px 0}.session-details summary{font:16px/1.7 Georgia,serif;cursor:pointer;min-height:44px}.session-details summary:focus-visible{outline:3px solid #b08439;outline-offset:4px}@media(max-width:600px){.session-facts>div{grid-template-columns:1fr;gap:4px}.session-details{padding:14px}}@media print{.session-facts>div{break-inside:avoid}}

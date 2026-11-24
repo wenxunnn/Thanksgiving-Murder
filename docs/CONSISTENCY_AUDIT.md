@@ -38,4 +38,6 @@ Run `node scripts/validate.mjs` for the current repository acceptance checks. Ad
 - The site is public static hosting. Source inspection can bypass game pacing; the GM hub and print-production index are not secure authentication.
 - Old Git history is not rewritten. Only the current deployed source is the canonical playable version.
 
+The Sophie account reference now has an explicitly supplied 10:07:14 PM digital authentication event and a separate housing network assignment. Its earlier undated-time reference was replaced rather than duplicated. Technical details are collapsed by default and the record is not a physical card swipe.
+
 No circular digital dependency is required by the implemented flow. A real-room rehearsal is still needed to confirm that the GM places every prerequisite outside the item it unlocks.

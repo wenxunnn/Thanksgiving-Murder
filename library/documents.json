@@ -40,5 +40,33 @@
     "date": "Autumn 2004",
     "keywords": "Langford award fluorescence antibiotic residues milk Victor Lin Whitmore collaboration friendship",
     "abstract": "A historical announcement recognizing the fluorescence-based detection work of Nathaniel Whitmore and Victor Lin."
+  },
+  {
+    "id": "dl-20081127-sb",
+    "title": "Sophie Bennett — Digital Library Authentication Record",
+    "authors": [
+      "WLLU Library Reader Services"
+    ],
+    "year": 2008,
+    "publisher": "WLLU Digital Library",
+    "kind": "Student activity record",
+    "url": "records/sophie-bennett/",
+    "date": "November 27, 2008",
+    "keywords": "Sophie Bennett 200531874 sbennett@westlala.edu 10:07 PM 10:07:14 successful authentication student library card credentials Remote VPN 73.44.182.16",
+    "abstract": "Student reader activity for Sophie Bennett: successful digital library authentication on November 27, 2008, at 10:07 PM EST. Technical session fields are available with the record."
+  },
+  {
+    "id": "hsg-20081127-17",
+    "title": "Lark Townhouse 17 — Public Internet Assignment Record",
+    "authors": [
+      "WLLU Housing Network Services"
+    ],
+    "year": 2008,
+    "publisher": "WLLU Housing Network Services",
+    "kind": "Network service record",
+    "url": "records/townhouse-network/",
+    "date": "November 27, 2008",
+    "keywords": "Lark Townhouse 17 public internet IP address assignment ISP housing network 73.44.182.16 November 27 2008",
+    "abstract": "Archived public internet service assignment for Lark Townhouse 17 on November 27, 2008."
   }
 ]

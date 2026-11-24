@@ -102,3 +102,7 @@ Use the [printing checklist](docs/PRINTING_CHECKLIST.md). Print from deployed UR
 The final report has two handwriting pages and no embedded answer logic. The corresponding confidential key is kept in the separate local `private-gm` production directory, never in this public repository. Public documents do not name a poisoner, include a confession or reveal lock answers.
 
 See [puzzle dependencies](docs/PUZZLE_FLOW.md) and [consistency audit](docs/CONSISTENCY_AUDIT.md). Browser rendering, actual QR scanning, physical portrait sightlines, printer pagination, glass/knife prop identification and the real room setup require human validation; source inspection or simulated tests are not represented as device tests.
+
+## Sophie reader authentication and housing reference
+
+The searchable record at `library/records/sophie-bennett/` shows the successful digital library login at 10:07 PM EST on November 27, 2008. Native expandable technical details hold the 10:07:14 PM timestamp, card-credential authentication, Remote VPN, client/server addresses and no physical entrance swipe record. This is not labelled as an entrance event. `library/records/townhouse-network/` is a separate fictional daily public-address assignment, indexed independently. The corresponding existing reader-activity printable is synchronized. No individual-location conclusion is printed; the shared-address record does not identify an operator. Existing lock and digital credentials are unchanged.
