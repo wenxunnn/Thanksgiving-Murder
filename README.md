@@ -185,3 +185,7 @@ The source needs no compilation. Run `node scripts/validate.mjs`, commit/push `m
 ## Phone-sized layouts
 
 The calling page contains only the smartphone dialer; the former introductory text panel is removed. The institutional sites keep their mobile single-column layouts, minimum 44px navigation controls, wrapping technical text and scrollable research/billing tables. CCTV controls wrap onto multiple rows, and printable prop cards fit narrow screens before printing. Reprints have direct PDF links on phones. These rules are checked in source; real-device visual and printer checks are still recommended.
+
+## Hospital reminder recording
+
+The hospital number now plays a message addressed to Mrs. Whitmore about payment before November 28, 2008 for Owen's upcoming procedure. It refers to the current November 20 balance, which remains consistent with the portal and settlement evidence. The physical October 20 receipt is an earlier billing period and is not the current statement. The MP3 and accessibility transcript are synchronized in `phone/directory.json`; the audio URL is versioned so returning browsers receive the replacement.
