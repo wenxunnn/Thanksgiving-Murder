@@ -20,7 +20,7 @@ The site is designed for the fictional incident on Thursday, November 27, 2008. 
 - `library/catalog.js`, `library/papers.json`: searchable faculty publications and local reading desk.
 - `library/publications/`: full paper display, graph and table, both rendered from the same numerical arrays.
 - `library/faculty/`, `library/records/`: profiles and administrative records.
-- `library/archive/`: eight-digit puzzle access form and sealed six-symbol note.
+- `library/archive/`: eight-digit puzzle access form and sealed three-symbol note.
 - `phone/index.html`, `phone/phone.css`: standalone smartphone dialer, independent of the library.
 - `phone/phone.js`, `phone/directory.json`, `phone/audio/`: simulated calls, number map, transcripts and five prerecorded MP3s.
 - `scripts/validate.mjs`: dependency-free checks.
@@ -73,9 +73,9 @@ The visiting-reader card shown on the catalog opens a local reading list. It is 
 
 ## Archive, hints and reset
 
-The archive uses an encrypted static puzzle asset to avoid accidental pre-unlock HTML spoilers. The eight-digit puzzle code is not a server-enforced login: **this is puzzle progression, not secure authentication**. The six-symbol note uses a Nokia phone number pad hint. Its decoded answer is not printed in player pages or source. No murder solution is stored in that asset or elsewhere in the deployed site. Keep the private production notes outside this repository.
+The archive uses an encrypted static puzzle asset to avoid accidental pre-unlock HTML spoilers. The eight-digit puzzle code is not a server-enforced login: **this is puzzle progression, not secure authentication**. The three-symbol note uses a Nokia phone number pad hint. Its decoded answer is not printed in player pages or source. No murder solution is stored in that asset or elsewhere in the deployed site. Keep the private production notes outside this repository.
 
-The GM issues assistance tickets verbally or on paper; players enter them in the unlocked archive. This works without a backend and does not provide remote synchronized GM controls. Hints and validation are inspectable static game content.
+The archive shows only the three-symbol picture and its Nokia phone number pad hint. There is no assistance-ticket form.
 
 Select **Clear this session** on every player browser and confirm to remove this site's reading list, card and archive access. The archive is tab-scoped and can also be closed using Close restricted record. Reload other open tabs between groups. Phone state is not persisted. No server state exists.
 
