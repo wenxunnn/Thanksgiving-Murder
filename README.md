@@ -140,7 +140,7 @@ Four consistent illustrated placeholder stills are included. They are playable r
 - `cctv/assets/cam04-2200.svg`: person standing, no knife.
 - `cctv/assets/cam04-2230.svg`: person slumped in chair, no knife.
 - `cctv/assets/cam04-2300.svg`: same chair position, knife handle visible.
-- `cctv/assets/cam04-2330.svg`: same position and handle.
+- `cctv/assets/cam04-2330-no-knife.svg`: same chair position, no knife visible.
 
 You can use JPG/PNG files instead by changing each `src` in `archive.json`; keep the four capture times and interval unchanged, update accessible descriptions to match, and do not add timestamps inside the replacement photos. Update the export automatically by editing only that manifest. The four current illustrations use one identical background and camera framing; the final two show the same pose.
 
