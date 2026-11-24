@@ -1,0 +1,5 @@
+node_modules/
+private-gm/
+GAME_MASTER.md
+.env
+*.zip

@@ -1,0 +1,2 @@
+document.querySelector('#reset')?.addEventListener('click',()=>{if(confirm('Clear library access and saved records on this browser?')){for(const s of [localStorage,sessionStorage])for(const key of Object.keys(s))if(key.startsWith('wlu-'))s.removeItem(key);location.reload();}});
+for(const a of document.querySelectorAll('nav a'))if(a.pathname===location.pathname)a.setAttribute('aria-current','page');
