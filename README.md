@@ -189,3 +189,5 @@ The calling page contains only the smartphone dialer; the former introductory te
 ## Hospital reminder recording
 
 The hospital number now plays a message addressed to Mrs. Whitmore about payment before November 28, 2008 for Owen's upcoming procedure. It refers to the current November 20 balance, which remains consistent with the portal and settlement evidence. The physical October 20 receipt is an earlier billing period and is not the current statement. The MP3 and accessibility transcript are synchronized in `phone/directory.json`; the audio URL is versioned so returning browsers receive the replacement.
+
+The Dean Wallace entry (Evidence V3, `765-555-0112`) confirms a call with **Dr. Victor Lin** on November 27, 2008, from 10:15 PM until approximately 10:40 PM. Its MP3 and transcript replace the earlier caller attribution.
