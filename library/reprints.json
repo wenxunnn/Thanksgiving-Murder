@@ -76,9 +76,10 @@
     "abstract": "The long-term stability of europium-sensitized fluorescent indicators was evaluated in buffer, bovine serum, skim milk and urine over 180 days at 4 °C. Indicator response in the biological matrices retained 93-97% of its initial value after 180 days. With a revised measurement procedure incorporating a thermostatted autosampler and extended degassing, the relative standard deviation of eight replicate measurements fell from 2.9% (previous method) to 0.02%, while the detection limit of 0.9 ng/mL was recovered in serum. The improved precision enables reliable detection of small drifts in indicator response during long-term storage.",
     "keywords": "fluorescent indicators; stability; serum; milk; precision; time-resolved fluorescence",
     "kind": "Research reprint",
-    "pdf": "reprints/jaac-2006-05.pdf",
     "pages": 3,
-    "sourceCollection": "Analytical Chemistry Reprints, 1999–2008"
+    "sourceCollection": "Analytical Chemistry Reprints, 1999–2008",
+    "sealedPdf": "reprints/jaac-2006-05.sealed.json",
+    "locked": true
   },
   {
     "id": "jaac-2006-06",
@@ -142,9 +143,10 @@
     "abstract": "An interlaboratory study of five laboratories was carried out to evaluate the reproducibility of time-resolved fluorescence measurements of a europium-sensitized tetracycline standard. Each laboratory analyzed eight replicate portions of a common 25 ng/mL sample. Between-laboratory reproducibility (RSDR) was 1.4%, and repeatability within the four external laboratories ranged from 2.1 to 4.0%. The originating laboratory (A) obtained an exceptional repeatability of 0.02%, which we attribute to its thermostatted sampling procedure. Overall the study demonstrates that the fluorescence method is transferable, and that adoption of the originating laboratory's procedure could improve precision elsewhere by two orders of magnitude.",
     "keywords": "interlaboratory study; reproducibility; fluorescence; precision; repeatability",
     "kind": "Research reprint",
-    "pdf": "reprints/jaac-2008-09.pdf",
     "pages": 3,
-    "sourceCollection": "Analytical Chemistry Reprints, 1999–2008"
+    "sourceCollection": "Analytical Chemistry Reprints, 1999–2008",
+    "sealedPdf": "reprints/jaac-2008-09.sealed.json",
+    "locked": true
   },
   {
     "id": "jaac-2008-10",
@@ -159,8 +161,9 @@
     "abstract": "Variability in multi-laboratory pharmaceutical testing was evaluated using four fluorometric content-uniformity datasets, each containing eight independent replicate measurements. Variance components were estimated by one-way ANOVA, and homogeneity of variances was assessed with Cochran's and Levene's tests. Between-dataset variation accounted for 71% of the total variance. Homogeneity of variances was rejected (Cochran's C = 0.97, p < 0.001), driven by one dataset with a variance approximately 104 times lower than the others. Reproducibility limits for content-uniformity testing are proposed, and the consequences of retaining such datasets for pooled estimates are discussed.",
     "keywords": "analytical variability; variance components; interlaboratory testing; Cochran test; pharmaceutical analysis",
     "kind": "Research reprint",
-    "pdf": "reprints/jaac-2008-10.pdf",
     "pages": 3,
-    "sourceCollection": "Analytical Chemistry Reprints, 1999–2008"
+    "sourceCollection": "Analytical Chemistry Reprints, 1999–2008",
+    "sealedPdf": "reprints/jaac-2008-10.sealed.json",
+    "locked": true
   }
 ]
