@@ -116,7 +116,7 @@ Whitmore’s 2006–2008 papers (five native records and six reprints) are withd
 
 ## Unlisted finale
 
-The organizer can give players the `/final/` URL at the end of the investigation. It is intentionally absent from ordinary navigation. Incorrect or empty submissions do not load the reconstruction. Accepted name variations open a solved state, followed by the complete reconstruction, native disclosure sections, print controls, and a restart control. Refresh returns to a fresh submission; no answer is stored.
+The organizer can give players the `/final/` URL at the end of the investigation. The main game-master launch page includes an Open finale button and copy-link control; the player sites do not include it in their navigation. Incorrect or empty submissions do not load the reconstruction. Accepted name variations open a solved state, followed by the complete reconstruction, native disclosure sections, print controls, and a restart control. Refresh returns to a fresh submission; no answer is stored.
 
 All complete solution content is confined to `final/reconstruction.js` and is imported only after an accepted submission in the normal player flow. This is **casual spoiler protection, not secure authentication**: the answer validator and reconstruction are public static source. Truly confidential validation or content requires a private server or an organizer-controlled unlock. The source privacy check permits the expressly requested reconstruction only inside `final/`; the rest of the website retains its existing spoiler boundary. No practical poison preparation or administration directions are included.
 
