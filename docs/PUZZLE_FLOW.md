@@ -15,7 +15,7 @@ The only playable areas are the living room and the first-floor balcony. The bal
 | Confidential correspondence and original data | Inside the briefcase | Picture/keypad clue | Motive and research-accountability context |
 | Dean card | Living-room personal papers; an extra duplicate may go inside the case | Telephone site address | Genuine call interval and its limits |
 | Sophie’s observation, glass label and toxicology | Statement in her living-room belongings; glass label at scene; lab report among investigation papers | Cross-reference item identification | Opportunity, relevant glass and medical findings |
-| Martha’s statement and settlement letter | Claire’s living-room belongings | None behind a second unknown gate | Timing and financial context |
+| Martha’s statement, telephone contacts and settlement letter | Claire’s living-room belongings | None behind a second unknown gate | Message/arrival gap and financial context |
 | Final report | Investigator station in living room | Evidence gathered across sources | Written submission to GM |
 
 The separate optional locker is not an essential dependency. Its physical purpose and any established contents must be checked by the GM; no new lock is introduced here.
@@ -34,3 +34,5 @@ No single correspondence item, alibi, witness observation or clinical finding is
 - Ensure the existing physical case material supports chest-wound attribution; an absence interval alone does not prove an act.
 - Scan the printed CCTV QR on a phone; enter the hospital reference; hear the recordings in the actual room.
 - Run one rehearsal using only the two permitted spaces. Record any clue only reachable from the item it is meant to unlock.
+
+The later telephone brief supersedes earlier witness arrival timings. Use the current Martha statement (10:09 PM message, approximately 10:49 PM first arrival), genuine 10:35 PM student shuttle boarding, and Sophie’s 11:32 PM return / approximately 11:35 PM discovery. Shuttle and paper-phone printables are available from the production index. Neither transit destinations nor digital logins establish a building-entry event.

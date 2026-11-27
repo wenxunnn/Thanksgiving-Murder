@@ -1,27 +1,62 @@
 {
+  "7655550179": {
+    "label": "Dr. Victor Lin",
+    "audio": "audio/victor-lin.mp3?v=canonical-20261127",
+    "transcript": "This is Dr. Victor Lin.\n\nYes, I attended Nathaniel's Thanksgiving dinner. We had an argument about the research investigation. It was a private matter between two old friends, and I would rather not discuss the details.\n\nI left the gathering after our disagreement. Nathaniel was upset, and I thought it would be better to give him some space.\n\nAs for the time of his death, I was speaking with Dean Margaret Wallace on the telephone from approximately 10:15 until 10:40 that night.\n\nYou don't have to take my word for it.\n\nCall Dean Wallace's office at 765-555-0112. I'm sure she can confirm our conversation.\n\nI had known Nathaniel for over twenty years. Whatever our disagreements, I never wanted things to end this way."
+  },
   "7655550112": {
-    "label": "Dean Margaret A. Wallace",
-    "audio": "audio/dean-wallace.mp3?v=neural-20261127",
-    "transcript": "This is the office of Dean Margaret A. Wallace. Our records confirm that Dean Wallace spoke with Dr. Victor Lin by telephone on November 27, 2008. The call was genuine. It began at approximately 10:15 PM and concluded at approximately 10:40 PM. Dean Wallace cannot establish Dr. Lin's location before the call."
+    "label": "Dean Margaret Wallace",
+    "audio": "audio/dean-wallace.mp3?v=canonical-20261127",
+    "transcript": "This is Dr. Margaret Wallace, Dean of the College of Science at West La La University.\n\nI understand that you are verifying Dr. Victor Lin's account of Thanksgiving evening.\n\nYes, I can confirm that Dr. Lin and I spoke by telephone on November 27, 2008.\n\nOur conversation began at approximately 10:15 PM and ended at 10:40 PM.\n\nWe discussed the pending research integrity review involving Professor Nathaniel Whitmore.\n\nDr. Lin sounded distressed. He expressed serious concerns about the possible consequences of the investigation.\n\nHowever, I cannot confirm Dr. Lin's movements before our telephone conversation or establish his physical location during the call.\n\nI hope this clarifies the matter."
+  },
+  "7655550134": {
+    "label": "Daniel Mercer",
+    "audio": "audio/daniel-mercer.mp3?v=canonical-20261127",
+    "transcript": "Hello, this is Daniel Mercer.\n\nYes, I was at Professor Whitmore's Thanksgiving dinner.\n\nWe argued earlier that evening, but it was about the research. I had been asking him for the original experimental records, and he kept refusing to show them to me.\n\nI left with Sophie at around 10:35 PM. We took the university shuttle back to campus.\n\nI was heading to the Chemistry Building. I had laboratory work and research files to check.\n\nYou can check the bus tickets. Sophie and I were on the same shuttle.\n\nI didn't know Professor Whitmore was dead when we left. The last I knew, he had gone outside to the balcony.\n\nLook, I know how this sounds, but I just wanted the truth about the research. That's all."
+  },
+  "7655550138": {
+    "label": "Sophie Bennett",
+    "audio": "audio/sophie-bennett.mp3?v=sophie-20261127-v2",
+    "transcript": "Hello? This is Sophie Bennett.\nYes, I attended Professor Whitmore's Thanksgiving dinner.\nI left around 9:35 because I needed to go to the university library. I had some research to finish, and things were getting uncomfortable at the dinner.\nLater that evening, I met Daniel, and we took the 10:35 shuttle back to campus together.\nI realized afterward that I'd forgotten my ukulele bag. I tried calling Daniel around 11:08, but he didn't answer.\nSo I took another shuttle back to Lark.\nWhen I returned to the townhouse around 11:32, I went looking for my ukulele.\nThat's when I saw Professor Whitmore on the balcony.\nHe was slumped in his chair, with a knife sticking out of his chest. I thought he might still be alive, but he wasn't responding.\nI was terrified. I called the police at 11:42.\nI don't know what happened to him. I really don't."
+  },
+  "7655550153": {
+    "label": "Claire Whitmore",
+    "audio": "audio/claire-whitmore.mp3?v=canonical-20261127",
+    "transcript": "This is Claire Whitmore.\n\nYes, Nathaniel and I were having problems. We were getting divorced.\n\nAnd yes, I needed money. But it wasn't for me. Our son Owen has been receiving treatment at St. Agnes Children's Hospital, and the bills have become unbearable.\n\nI tried to speak with Nathaniel during Thanksgiving dinner, but he wouldn't listen.\n\nI was exhausted. I couldn't stay there anymore.\n\nI had already asked Martha, our neighbor, whether I could come over.\n\nI eventually went to her apartment.\n\nI don't know what else you want me to say.\n\nPlease leave Owen out of this."
+  },
+  "7655550186": {
+    "label": "Martha, Apartment 16",
+    "audio": "audio/martha.mp3?v=canonical-20261127",
+    "transcript": "Hello, this is Martha from Apartment 16.\n\nClaire is my neighbor. I've known her for a while.\n\nShe sent me a message around 10:09 PM on Thanksgiving night, asking whether she could come over.\n\nI told her of course, and said I'd put the kettle on.\n\nBut she didn't arrive immediately.\n\nI remember it was almost ten fifty when she finally knocked on my door.\n\nShe looked absolutely terrible. She was pale, upset, and shaking.\n\nI thought she'd been arguing with Nathaniel again, so I didn't push her for an explanation.\n\nShe sat down, and I made her some tea.\n\nThat's really all I remember."
+  },
+  "7655550193": {
+    "label": "Attorney Margaret Foster",
+    "audio": "audio/margaret-foster.mp3?v=canonical-20261127",
+    "transcript": "This is Margaret Foster of Foster & Associates.\n\nI represent Mrs. Claire Whitmore in her pending marital dissolution proceedings.\n\nOn November 24, 2008, our office prepared a proposed financial settlement totaling one hundred fifty thousand dollars.\n\nThe proposal included an initial payment of eighty-four thousand five hundred sixty dollars and thirty cents, requested by Friday, November 28, at five o'clock in the afternoon.\n\nProfessor Whitmore had not agreed to the proposed settlement as of Thanksgiving evening.\n\nMrs. Whitmore contacted my office several times regarding the matter.\n\nI advised her that the settlement remained unsigned and that any further action would have to follow the appropriate legal process.\n\nI cannot comment further on confidential communications with my client."
+  },
+  "7655550164": {
+    "label": "WLLU Chemistry Laboratory",
+    "audio": "audio/chemistry-lab.mp3?v=canonical-20261127",
+    "transcript": "You have reached the Chemistry Department Laboratory Office at West La La University.\n\nRegarding Daniel Mercer's research activity on November 27, 2008, our laboratory records show that his university account was used to access research resources late that evening.\n\nA remote connection was recorded at approximately 10:46 PM.\n\nThis was a Remote VPN session, not a physical laboratory door-entry event.\n\nThe record therefore does not establish whether Mr. Mercer was physically inside the Chemistry Building at that time.\n\nThe laboratory office also received a brief telephone call associated with Mr. Mercer's number at approximately 10:47 PM.\n\nFor detailed research records, please contact the Department of Chemistry."
   },
   "7655550146": {
     "label": "St. Agnes Children’s Hospital Billing",
-    "audio": "audio/hospital-billing.mp3?v=neural-20261127",
-    "transcript": "Mrs. Whitmore, this is the Patient Accounts office at St. Agnes Children's Hospital. I'm calling about Owen's upcoming procedure. Please arrange for the remaining balance of $84,560.30 to be received by 5:00 PM EST on November 28, 2008, so that we can proceed with Owen's procedure. Your October statement covers an earlier billing period. The current amount is listed on your final November 20, 2008 statement. Please contact our billing office to confirm payment arrangements. Thank you."
+    "audio": "audio/hospital-billing.mp3?v=canonical-20261127",
+    "transcript": "Thank you for calling St. Agnes Children's Hospital Patient Accounts.\n\nFor the purposes of the authorized case inquiry, we can confirm that the November 20, 2008 account statement for Owen Whitmore lists an outstanding balance of eighty-four thousand five hundred sixty dollars and thirty cents.\n\nThe earlier October 20 statement listed a balance of fifty-five thousand two hundred eighty dollars and thirty cents.\n\nFurther account information requires appropriate authorization.\n\nFor questions concerning billing arrangements, please contact the Patient Accounts Department during regular business hours."
   },
-  "7655550179": {
-    "label": "Dr. Victor Lin",
-    "audio": "audio/victor-lin.mp3?v=neural-20261127",
-    "transcript": "Victor Lin speaking. Nathaniel and I worked together for years. When we received the Langford Research Award in two thousand four, I thought the work was something we could stand behind. After two thousand six, he could not reproduce those early results. He leaned harder on the graduate students. Recently, we argued. A serious argument. I told him a result does not become true because you need it to be true. I was angry. Disappointed, too. Compare the old papers with the independent runs. The numbers deserve a closer look."
+  "7655550287": {
+    "label": "Professor Nathaniel Whitmore — archived greeting",
+    "audio": "audio/whitmore-office.mp3?v=canonical-20261127",
+    "transcript": "You have reached the office of Professor Nathaniel Whitmore, Department of Chemistry, West La La University.\n\nI am currently unavailable.\n\nFor research-related matters, please leave your name, contact number, and a brief message.\n\nStudents requiring access to original experimental data should arrange an appointment through the department office.\n\nThank you."
+  },
+  "7655550182": {
+    "label": "Dr. Evelyn Shaw",
+    "audio": "audio/evelyn-shaw.mp3?v=canonical-20261127",
+    "transcript": "This is Dr. Evelyn Shaw.\n\nI worked with Professor Whitmore on several analytical chemistry research projects in previous years.\n\nI was not present at his Thanksgiving gathering on November 27.\n\nI understand questions have been raised about the reproducibility of measurements in some of our publications.\n\nThe original data should be examined carefully before any conclusions are reached.\n\nI cannot speak to what happened at the townhouse that evening.\n\nI hope the investigation distinguishes the scientific concerns from the circumstances of Nathaniel's death."
   },
   "7655550217": {
     "label": "West La La University Library",
     "audio": "audio/library-archive.mp3?v=neural-20261127",
     "transcript": "West La La University Library. Digital Archives and Special Collections. Restricted records require a Library Manager Access Code. Codes are not issued over the telephone. Readers should consult the access instructions supplied with their case materials. Once admitted, examine the enclosed symbols carefully. Reference hints are preserved with the archive record. Return to the library access desk when you are ready."
-  },
-  "7655550287": {
-    "label": "Whitmore’s Office Voicemail",
-    "audio": "audio/whitmore-office.mp3?v=neural-20261127",
-    "transcript": "You have reached Professor Nathaniel Whitmore in the Department of Chemistry. Leave your name and the accession number of the paper you are calling about. Daniel, if this is you, use the revised summary in the department folder. There is no reason to circulate preliminary instrument sheets before I have reviewed them. Sophie, I will discuss your recommendation after the materials manuscript is settled. For other enquiries, contact the department office."
   }
 }

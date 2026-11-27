@@ -47,7 +47,7 @@ Check Actions for a successful deployment. There is no compilation step. Refresh
 - `library/documents.json`: searchable computing references and award announcement.
 - `library/faculty/`: research biographies; former collaborators are clearly distinguished.
 - `library/archive/`: separate eight-digit digital gate and the three-symbol keypad note.
-- `phone/directory.json`, `phone/audio/`: five simulated recordings and matching transcripts.
+- `phone/directory.json`, `phone/audio/`: twelve simulated recordings and matching transcripts.
 - `hospital/data/accounts.json`: final and archived October statement data, aliases and activity.
 - `hospital/billing/statement.js`: shared validated statement renderer.
 - `cctv/archive.json`, `cctv/assets/`: four interval stills and metadata.
@@ -67,9 +67,11 @@ The 2004 Langford Award points to the fluorescence-based antibiotic detection pa
 
 ## Telephone recordings
 
-No real calls or paid APIs are used. Playback uses MP3 files, not browser text-to-speech. The five fictional messages use distinct neural American English voices, generated in advance and stored as MP3s; playback does not contact a speech service. They may also be replaced with human performances. The number map is not listed on the public dialer, but a static source map is inspectable.
+No real calls or paid APIs are used. Playback uses MP3 files, not browser text-to-speech. The twelve fictional messages use distinct neural American English voices, generated in advance and stored as MP3s; playback does not contact a speech service. They may also be replaced with human performances. The number map is not listed on the public dialer, but a static source map is inspectable.
 
-Dean Margaret A. Wallace confirms Victor Lin's genuine call, approximately 10:15–10:40 PM, and cannot establish his location before it. Hospital billing confirms the final November 20 balance and the November 28, 5:00 PM EST payment deadline. The library recording uses the new university name. All five recordings were regenerated with neural voices on November 27, 2026, preserving the current transcripts and evidence details.
+The canonical eleven investigation contacts have matching neural-voice recordings and exact supplied transcripts. The existing library line remains a twelfth supported contact. Victor refers callers to Dean Wallace, who confirms only their 10:15–10:40 PM call. Sophie and Daniel boarded the genuine 10:35 PM shuttle; the scheduled campus arrival was around 10:53 PM. Sophie returned to the townhouse around 11:32 PM, discovered Nathaniel around 11:35 PM, and called police at 11:42 PM. Martha recalls Claire’s 10:09 PM message and first arrival around 10:49 PM. The hospital recording confirms both statement balances; the attorney recording preserves the proposed settlement and immediate payment deadline. Phone numbers appear on the contact printables and relevant personal props, not on the dialer’s public screen.
+
+Shared transit data is in `assets/shuttle-records.json`, displayed by the library transit record and the printable shuttle record. The late return has an approximate 11:30 PM arrival, without an invented departure time. Daniel’s 10:46:12 PM Remote VPN login is unchanged; the laboratory recording distinguishes it from physical entry and mentions his separate 10:47 PM call.
 
 To replace a clip, record its current transcript and retain the configured filename, or update its `audio` entry. Keep transcript and sound synchronized; version the audio URL after changing a file. Example:
 
@@ -77,7 +79,7 @@ To replace a clip, record its current transcript and retain the configured filen
 ffmpeg -i recording.wav -ar 22050 -ac 1 -codec:a libmp3lame -b:a 64k phone/audio/dean-wallace.mp3
 ```
 
-Unknown numbers, cancellation, replay, missing audio and blocked autoplay have local UI handling. The phone has no IP/VPN metadata. Actual speaker playback should be checked on the player device.
+Unknown numbers, cancellation, replay, missing audio and blocked autoplay have local UI handling. The dialer has no IP diagnostics; the laboratory recording explicitly describes the Remote VPN account event without claiming a physical location. Actual speaker playback should be checked on the player device.
 
 ## Hospital records
 

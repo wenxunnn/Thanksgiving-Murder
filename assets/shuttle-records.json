@@ -1,0 +1,55 @@
+{
+  "service": "WLLU Thanksgiving Holiday Shuttle",
+  "date": "November 27, 2008",
+  "timeZone": "EST",
+  "records": [
+    {
+      "passenger": "Daniel Mercer",
+      "journey": "Arrival",
+      "stop": "Lark Townhouses",
+      "time": "6:52 PM",
+      "event": "Arrival at stop (approximately)",
+      "destination": "Lark Townhouses",
+      "validation": "Genuine · Validated"
+    },
+    {
+      "passenger": "Sophie Bennett",
+      "journey": "Arrival",
+      "stop": "Lark Townhouses",
+      "time": "6:52 PM",
+      "event": "Arrival at stop (approximately)",
+      "destination": "Lark Townhouses",
+      "validation": "Genuine · Validated"
+    },
+    {
+      "passenger": "Daniel Mercer",
+      "journey": "Campus departure",
+      "stop": "Lark Townhouses",
+      "time": "10:35 PM",
+      "event": "Boarded",
+      "destination": "Chemistry Building",
+      "validation": "Genuine · Validated",
+      "scheduledCampusArrival": "10:53 PM (approximately)"
+    },
+    {
+      "passenger": "Sophie Bennett",
+      "journey": "Campus departure",
+      "stop": "Lark Townhouses",
+      "time": "10:35 PM",
+      "event": "Boarded",
+      "destination": "Campus Library",
+      "validation": "Genuine · Validated",
+      "scheduledCampusArrival": "10:53 PM (approximately)"
+    },
+    {
+      "passenger": "Sophie Bennett",
+      "journey": "Late return",
+      "stop": "Lark Townhouses",
+      "time": "11:30 PM",
+      "event": "Arrival at stop (approximately)",
+      "destination": "Lark Townhouses",
+      "validation": "Recorded journey",
+      "departureTime": "Not specified in the retained record"
+    }
+  ]
+}

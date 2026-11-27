@@ -32,3 +32,7 @@ Use US Letter at actual size unless the printer preview requires a fit adjustmen
 Print the relevant complete research PDFs or original-data pages for the case contents. The historical award announcement is printable from /library/award-2004/. Do not print source code or private GM notes with player props.
 
 Before printing the library card, type the current digital credential into its local input, or leave it blank and write it by hand. It is not the physical portrait or briefcase answer. Scan the CCTV QR after printing. Keep this checklist at the production station, not among player evidence.
+
+## Updated telephone and transit props
+
+Print `/printables/daniel-phone/`, `/printables/claire-phone/`, and `/printables/shuttle-records/` as matching replacements for obsolete contact or transit sheets. The student numbers are Daniel 765-555-0134 and Sophie 765-555-0138; 765-555-0193 belongs to Attorney Foster. Replace earlier Martha/Sophie statements with current editions. The existing independent library contact is retained.
