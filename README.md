@@ -67,9 +67,9 @@ The 2004 Langford Award points to the fluorescence-based antibiotic detection pa
 
 ## Telephone recordings
 
-No real calls or paid APIs are used. Playback uses MP3 files, not browser text-to-speech. Sample voices are offline synthesized and may be replaced with human performances. The number map is not listed on the public dialer, but a static source map is inspectable.
+No real calls or paid APIs are used. Playback uses MP3 files, not browser text-to-speech. The five fictional messages use distinct neural American English voices, generated in advance and stored as MP3s; playback does not contact a speech service. They may also be replaced with human performances. The number map is not listed on the public dialer, but a static source map is inspectable.
 
-Dean Margaret A. Wallace confirms Victor Lin's genuine call, approximately 10:15–10:40 PM, and cannot establish his location before it. Hospital billing confirms the final November 20 balance and the November 28, 5:00 PM EST payment deadline. The library recording uses the new university name. Their audio and transcripts were corrected together; the other two recordings are retained.
+Dean Margaret A. Wallace confirms Victor Lin's genuine call, approximately 10:15–10:40 PM, and cannot establish his location before it. Hospital billing confirms the final November 20 balance and the November 28, 5:00 PM EST payment deadline. The library recording uses the new university name. All five recordings were regenerated with neural voices on November 27, 2026, preserving the current transcripts and evidence details.
 
 To replace a clip, record its current transcript and retain the configured filename, or update its `audio` entry. Keep transcript and sound synchronized; version the audio URL after changing a file. Example:
 
