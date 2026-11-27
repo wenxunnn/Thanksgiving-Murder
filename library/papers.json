@@ -1,7 +1,7 @@
 [
   {
     "id": "wlu-2004-041",
-    "title": "Cooperative manganese–platinum interfaces for low-temperature oxidation",
+    "title": "Cooperative manganese\u2013platinum interfaces for low-temperature oxidation",
     "authors": [
       "Nathaniel Whitmore",
       "Victor Lin"
@@ -29,11 +29,11 @@
       2.3,
       2.0
     ],
-    "xLabel": "Reactor temperature (°C)",
+    "xLabel": "Reactor temperature (\u00b0C)",
     "yLabel": "Conversion (%)",
-    "abstract": "A mixed manganese–platinum interface lowers the onset temperature of oxidation. Independent preparations are compared under a common dilution protocol. The record documents their parallel work on catalytic interfaces.",
-    "method": "Three independently prepared 0.50 g catalyst beds were dried at 110 °C. A 1.0% CO, 2.0% oxygen feed in nitrogen was delivered at 100 mL min⁻¹. Gas chromatography measured conversion after 20 minutes at each temperature. Means and sample standard deviations represent three preparations.",
-    "results": "Conversion rises monotonically. Between-preparation variation is 2.0–2.6 percentage points; blank-support conversion remained below 3% at 180 °C.",
+    "abstract": "A mixed manganese\u2013platinum interface lowers the onset temperature of oxidation. Independent preparations are compared under a common dilution protocol. The record documents their parallel work on catalytic interfaces.",
+    "method": "Three independently prepared 0.50 g catalyst beds were dried at 110 \u00b0C. A 1.0% CO, 2.0% oxygen feed in nitrogen was delivered at 100 mL min\u207b\u00b9. Gas chromatography measured conversion after 20 minutes at each temperature. Means and sample standard deviations represent three preparations.",
+    "results": "Conversion rises monotonically. Between-preparation variation is 2.0\u20132.6 percentage points; blank-support conversion remained below 3% at 180 \u00b0C.",
     "conclusion": "Interfacial preparation offers a reproducible activity advantage. Full synthesis records and primary chromatograms were deposited jointly by both investigators.",
     "note": "Joint investigators: N. Whitmore and V. Lin. For the 2004 Langford Research Award work, consult the fluorescence-based antibiotic detection reprint."
   },
@@ -46,34 +46,9 @@
     ],
     "journal": "Midwestern Journal of Reaction Studies",
     "year": 2006,
-    "x": [
-      140,
-      160,
-      180,
-      200,
-      220
-    ],
-    "y": [
-      18.2,
-      35.7,
-      61.4,
-      82.1,
-      94.8
-    ],
-    "sd": [
-      0.12,
-      0.12,
-      0.12,
-      0.12,
-      0.12
-    ],
-    "xLabel": "Reactor temperature (°C)",
-    "yLabel": "Conversion (%)",
     "abstract": "Thermal conditioning of Pt-supported manganese oxide is reported to improve conversion across a five-point temperature series. The deposited record summarizes final publication values.",
-    "method": "A nominal 0.50 g bed was conditioned at 350 °C for two hours. Feed composition and flow match the 2004 study. Three runs are described as independent preparations; five temperature holds of 20 minutes were used.",
-    "results": "Conversion exceeds the 2004 baseline at every temperature. The same standard deviation, 0.12 percentage points, is reported at all five conditions. No variance worksheet accompanies the deposit.",
-    "conclusion": "Conditioning is proposed as a route to higher activity. Further independent batches should be assessed before scale-up.",
-    "note": "Summary table replaced 18 October 2006; raw instrument files listed as “to follow”."
+    "locked": true,
+    "access": "withdrawn"
   },
   {
     "id": "wlu-2007-039",
@@ -84,34 +59,9 @@
     ],
     "journal": "Transactions in Composite Reaction Chemistry",
     "year": 2007,
-    "x": [
-      140,
-      160,
-      180,
-      200,
-      220
-    ],
-    "y": [
-      18.2,
-      35.7,
-      61.4,
-      82.1,
-      94.8
-    ],
-    "sd": [
-      0.12,
-      0.12,
-      0.12,
-      0.12,
-      0.12
-    ],
-    "xLabel": "Reactor temperature (°C)",
-    "yLabel": "Conversion (%)",
     "abstract": "CN-39, a chemically distinct composite, is assessed after staged thermal activation. The record compares steady-state conversion with a previous supported-oxide series.",
-    "method": "Freshly prepared batch C17 was tested using a 0.50 g bed and the 2006 feed composition and flow. Each condition is described as three independent preparations. No shared specimens with prior studies are declared.",
-    "results": "All five means and their standard deviations coincide with the 2006 supported-oxide series to the stated precision. The deposit attributes this to consistent activation. Primary chromatograms are absent.",
-    "conclusion": "CN-39 is presented as a distinct formulation. Direct comparison requires batch worksheets and primary traces.",
-    "note": "Accession revision 2 · Supplemental batch worksheet C17 not received."
+    "locked": true,
+    "access": "withdrawn"
   },
   {
     "id": "wlu-2007-084",
@@ -122,72 +72,22 @@
     ],
     "journal": "University Bulletin of Experimental Catalysis",
     "year": 2007,
-    "x": [
-      140,
-      160,
-      180,
-      200,
-      220
-    ],
-    "y": [
-      9.8,
-      21.3,
-      38.5,
-      59.7,
-      77.2
-    ],
-    "sd": [
-      1.9,
-      2.8,
-      3.6,
-      3.1,
-      2.7
-    ],
-    "xLabel": "Reactor temperature (°C)",
-    "yLabel": "Conversion (%)",
     "abstract": "An independent microreactor series tests whether earlier activity gains persist after fresh preparation. Primary run summaries are retained alongside the published mean.",
-    "method": "Three fresh 0.50 g preparations were tested at the 2006 feed composition and nominal space velocity. Five 20-minute holds were used. Independent instrument worksheets were supplied by D. Mercer.",
-    "results": "Conversions are lower than the 2006 values despite nominally matched conditions. Between-preparation variation is measurable rather than uniform. A change in reactor diameter did not recover the earlier peak activity.",
-    "conclusion": "The earlier increase was not reproduced under the stated protocol. Preparation history and source data require review before pooling results.",
-    "note": "Depositor: D. Mercer · Original instrument worksheets retained in accession MS-84."
+    "locked": true,
+    "access": "withdrawn"
   },
   {
     "id": "wlu-2008-052",
-    "title": "Mesoporous Cu–Co catalyst surface area after calcination",
+    "title": "Mesoporous Cu\u2013Co catalyst surface area after calcination",
     "authors": [
       "Sophie Bennett",
       "Nathaniel Whitmore"
     ],
     "journal": "Student Proceedings in Materials Chemistry",
     "year": 2008,
-    "x": [
-      300,
-      350,
-      400,
-      450,
-      500
-    ],
-    "y": [
-      182,
-      164,
-      139,
-      111,
-      84
-    ],
-    "sd": [
-      3.8,
-      3.5,
-      3.1,
-      2.9,
-      2.6
-    ],
-    "xLabel": "Calcination temperature (°C)",
-    "yLabel": "BET area (m² g⁻¹)",
-    "abstract": "Nitrogen adsorption quantifies the loss of mesoporous Cu–Co surface area during calcination. The accession retains the student investigator’s instrument series and an editorial transfer note.",
-    "method": "Three independently calcined specimens were measured at each temperature. Samples were degassed for four hours at 150 °C. BET areas used relative pressures 0.05–0.30 and a shared calibration.",
-    "results": "Mean surface area falls from 182 to 84 m² g⁻¹. The instrument mean at 400 °C is 139. An editorial transfer note requests replacing this with 168, without an accompanying measurement.",
-    "conclusion": "Calcination progressively removes accessible surface area. The measured 400 °C value is retained pending documentary support for revision.",
-    "note": "S. Bennett requests retention of the original adsorption summary, 3 November 2008."
+    "abstract": "Nitrogen adsorption quantifies the loss of mesoporous Cu\u2013Co surface area during calcination. The accession retains the student investigator\u2019s instrument series and an editorial transfer note.",
+    "locked": true,
+    "access": "withdrawn"
   },
   {
     "id": "wlu-2008-097",
@@ -199,33 +99,8 @@
     ],
     "journal": "Archive Reports in Chemical Engineering",
     "year": 2008,
-    "x": [
-      140,
-      160,
-      180,
-      200,
-      220
-    ],
-    "y": [
-      11.1,
-      24.9,
-      43.2,
-      65.6,
-      81.0
-    ],
-    "sd": [
-      1.7,
-      2.2,
-      2.9,
-      3.2,
-      2.8
-    ],
-    "xLabel": "Reactor temperature (°C)",
-    "yLabel": "Conversion (%)",
     "abstract": "A cross-geometry check compares fresh CN-39 preparations with earlier activity claims. The archive retains measured results before proposed normalization.",
-    "method": "Three fresh batches were evaluated in a 6 mm quartz fixed-bed reactor at 100 mL min⁻¹. Feed, catalyst mass, and holds match the 2007 study. Values are uncorrected means and sample deviations.",
-    "results": "The 180 °C mean is 43.2%, against 61.4% previously. An unsigned memorandum proposes multiplying that point by 1.42, giving 61.344%, or 61.3% rounded. It supplies no calibration or rule for the remaining temperatures.",
-    "conclusion": "The fresh series does not reproduce the deposited curve. A geometry correction requires documented calibration and uncertainty.",
-    "note": "Provisional manuscript deposited 21 November 2008. Correction memorandum unsigned."
+    "locked": true,
+    "access": "withdrawn"
   }
 ]
