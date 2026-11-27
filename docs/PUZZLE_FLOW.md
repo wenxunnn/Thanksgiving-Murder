@@ -14,7 +14,7 @@ The only playable areas are the living room and the first-floor balcony. The bal
 | Three-symbol archive picture and Nokia keypad reference | Picture behind the separate digital library credential; keypad available in living room/phone UI | Credential must be outside the briefcase | Physical briefcase combination |
 | Confidential correspondence and original data | Inside the briefcase | Picture/keypad clue | Motive and research-accountability context |
 | Dean card | Living-room personal papers; an extra duplicate may go inside the case | Telephone site address | Genuine call interval and its limits |
-| Sophie’s observation, glass label and toxicology | Statement in her living-room belongings; glass label at scene; lab report among investigation papers | Cross-reference item identification | Opportunity, relevant glass and medical findings |
+| Sophie’s statement, glass label and toxicology | Statement in her living-room belongings; glass label at scene; lab report among investigation papers | Cross-reference item identification | Discovery, relevant glass and medical findings |
 | Martha’s statement, telephone contacts and settlement letter | Claire’s living-room belongings | None behind a second unknown gate | Message/arrival gap and financial context |
 | Final report | Investigator station in living room | Evidence gathered across sources | Written submission to GM |
 
