@@ -51,3 +51,13 @@ Martha’s old 10:18 PM visit and 10:34 PM departure were removed; her statement
 The original Daniel Remote VPN event and source IP remain unchanged. An account login is not a building-entry event. The separately retained housing IP assignment is an assignment to a connection, not verified individual location tracking; do not label the login a verified physical location. The late-return shuttle departure time is unspecified. Supplied physical tickets and phone props were not available for inspection; matching replacement printables are provided. No new police finding is invented: any initial possible-suicide impression is provisional, and the autopsy remains a homicide finding.
 
 The latest Sophie-only revision replaces her phone dialogue verbatim and gives her departure claim as approximately 9:35 PM. Her printable statement now uses the same dialogue, removing the obsolete 9:42 PM glass-handling observation and 9:55 PM return. No poisoning observation is attributed to Sophie. Her 10:07:14 PM digital authentication remains Remote VPN, with no physical entrance record.
+
+## Library presentation cleanup
+
+The shuttle record has been removed from the library catalogue and institutional index; the direct route and printable evidence remain for the reconstruction. The overlapping network references are consolidated into one short article, with legacy URLs forwarding to it. Sophie’s library activity and matching printable omit the Connection method and Library server fields at the organizer’s request; the underlying fictional account event remains remote in the authorized finale.
+
+## Authorized unlisted finale
+
+The complete solution is now expressly authorized within `/final/`, opened in normal play by a correct accusation. It is not added to the ordinary navigation. Public source inspection remains possible, as with all static GitHub Pages content. No answer-bearing solution is copied into unrelated routes.
+
+The latest reconstruction moves the glass event to an unspecified point before 9:35 PM and the staged departure announcement to 9:36 PM. Sophie’s default phone account remains approximate (“around 9:35”), and her current written statement remains matched to that recording. The glass-handling observation is explained in the finale but no longer appears in her current investigation statement; organizers wanting that observation available before submission need a separately supplied clue. No new exact contamination minute or suicide-letter author is invented. Claire has no confirmed portrait asset; a clearly labelled initials panel is used. Previously supplied CCTV stills remain illustrations.

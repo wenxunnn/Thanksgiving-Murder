@@ -1,31 +1,17 @@
 [
   {
     "id": "cs-2008-14",
-    "title": "WLLU Computing Services — Remote Access Guide (2008)",
+    "title": "WLLU Network Access — A Short Guide",
     "authors": [
       "WLLU Computing Services"
     ],
     "year": 2008,
     "publisher": "WLLU Technical Services",
-    "kind": "Support reference",
+    "kind": "Library article",
     "url": "computing-services/",
     "date": "14 August 2008",
     "keywords": "Remote access VPN Laboratory computer Campus network IP address Chemistry lab",
-    "abstract": "A technical reference for laboratory workstation addresses, public university gateways, and remote authentication through the WLLU VPN service."
-  },
-  {
-    "id": "it-2008-10",
-    "title": "WLLU Information Technology — Network Access Reference, October 2008",
-    "authors": [
-      "WLLU Information Technology"
-    ],
-    "year": 2008,
-    "publisher": "WLLU Computing Services",
-    "kind": "Technical reference",
-    "url": "network-reference/",
-    "date": "16 October 2008",
-    "keywords": "Remote access VPN Laboratory computer Campus network IP address Chemistry lab source destination gateway",
-    "abstract": "Address conventions for laboratory workstations, institutional gateways, and remote VPN sessions, with guidance on source and destination fields."
+    "abstract": "A short introduction to university network addresses and remote account access."
   },
   {
     "id": "aw-2004-06",
@@ -52,7 +38,7 @@
     "kind": "Student activity record",
     "url": "records/sophie-bennett/",
     "date": "November 27, 2008",
-    "keywords": "Sophie Bennett 200531874 sbennett@westlala.edu 10:07 PM 10:07:14 successful authentication student library card credentials Remote VPN 73.44.182.16",
+    "keywords": "Sophie Bennett 200531874 sbennett@westlala.edu 10:07 PM 10:07:14 successful authentication student library card credentials 73.44.182.16",
     "abstract": "Student reader activity for Sophie Bennett: successful digital library authentication on November 27, 2008, at 10:07 PM EST. Technical session fields are available with the record."
   },
   {
@@ -68,19 +54,5 @@
     "date": "November 27, 2008",
     "keywords": "Lark Townhouse 17 public internet IP address assignment ISP housing network 73.44.182.16 November 27 2008",
     "abstract": "Archived public internet service assignment for Lark Townhouse 17 on November 27, 2008."
-  },
-  {
-    "id": "tr-20081127-shuttle",
-    "title": "WLLU Thanksgiving Holiday Shuttle — Journey Records",
-    "authors": [
-      "WLLU Transportation Services"
-    ],
-    "year": 2008,
-    "publisher": "WLLU Transportation Services",
-    "kind": "Transit record",
-    "url": "records/shuttle/",
-    "date": "November 27, 2008",
-    "keywords": "Daniel Mercer Sophie Bennett bus ticket shuttle 6:52 PM 10:35 PM 10:53 PM 11:30 PM arrival departure late return validated",
-    "abstract": "Archived arrival, validated campus-bound boarding, and late-return journey records for the Thanksgiving holiday shuttle."
   }
 ]

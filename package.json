@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "test": "node scripts/validate.mjs",
-    "dev": "python3 -m http.server 8000 --directory . --bind 127.0.0.1"
+    "dev": "python3 -m http.server 8000 --directory . --bind 127.0.0.1",
+    "test:finale": "node --experimental-vm-modules scripts/finale.test.mjs"
   }
 }
